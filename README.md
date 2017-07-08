@@ -1,4 +1,4 @@
-t# Handwritten-Digit-Recognition-using-Neural-Networks
+# Handwritten-Digit-Recognition-using-Neural-Networks
 
 The Kaggle Digit Reognizer data set, i.e, the MNIST data set has been used for this peoject. It contains images of size 28x28 pixels each.
 
