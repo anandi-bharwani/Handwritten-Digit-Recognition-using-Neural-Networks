@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition-using-Neural-Networks
 
-The Kaggle Digit Reognizer data set, i.e, the MNIST data set has been used for this peoject. It contains images of size 28x28 pixels each.
+The Kaggle Digit Reognizer data set, i.e, the MNIST data set has been used for this project. It contains images of size 28x28 pixels each.
 
 I've implemented two optimization techniques on the vanilla ANN: momentum and RMSProp. Also, I've done the code in both Theano and TensorFlow for learning purpose. With these I got a maximum score of 0.97200 in Kaggle. [theanoANN.py]
 
